@@ -1,0 +1,34 @@
+html {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-content: space-evenly;
+    background-color: #572509;
+}
+
+header {
+    background-color: bisque;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+}
+
+footer {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+    color: aliceblue;
+}
+
+main {
+    background-color: darkgoldenrod;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+}
+
